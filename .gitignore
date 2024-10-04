@@ -1,0 +1,17 @@
+!.gitignore
+**/\.vscode/**
+**/__pycache__/*
+*/__pycache__/*
+*/static/media/*
+*/migrations/*
+*/migrations_/*
+*/migrations__/*
+*/migrations_v1/*
+*/migrations_v1_/*
+*/migrations_v1__/*
+*/sql/*
+.python-version
+.ssh
+*/static/*
+.cache
+.env.local
